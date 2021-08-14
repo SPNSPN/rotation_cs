@@ -9,5 +9,5 @@
 
 
 ## ref
-https://qiita.com/shuhey/items/b4211f196259156df8f4
+qiita.com/shuhey/items/ b4211f196259156df8f4
 
